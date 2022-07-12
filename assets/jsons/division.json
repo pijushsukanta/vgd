@@ -1,0 +1,160 @@
+{
+  "division" :[
+    {
+      "id": "-1",
+      "creationDate": "2017-03-30 04:44:52",
+      "modificationDate": null,
+      "isDeleted": "0",
+      "active": "-1",
+      "code": "-10",
+      "nameInBangla": "--বিভাগ বেছে নিন--",
+      "nameInEnglish": "",
+      "createdBy": "-1",
+      "modifiedBy": null
+    },
+    {
+      "id": "10",
+      "creationDate": "2017-03-30 04:44:52",
+      "modificationDate": null,
+      "isDeleted": "0",
+      "active": "1",
+      "code": "10",
+      "nameInBangla": "বরিশাল",
+      "nameInEnglish": "Barisal",
+      "createdBy": "1",
+      "modifiedBy": null
+    },
+    {
+      "id": "19",
+      "creationDate": "2017-05-17 22:49:54",
+      "modificationDate": "2017-05-20 18:08:12",
+      "isDeleted": "1",
+      "active": "1",
+      "code": "19",
+      "nameInBangla": "বরেন্দ্র",
+      "nameInEnglish": "borendro",
+      "createdBy": "55",
+      "modifiedBy": "21"
+    },
+    {
+      "id": "20",
+      "creationDate": "2017-03-30 04:44:52",
+      "modificationDate": "2017-05-23 16:41:02",
+      "isDeleted": "0",
+      "active": "1",
+      "code": "20",
+      "nameInBangla": "চট্রগ্রাম",
+      "nameInEnglish": "Chittagong",
+      "createdBy": "1",
+      "modifiedBy": "21"
+    },
+    {
+      "id": "23",
+      "creationDate": "2017-08-02 11:54:05",
+      "modificationDate": "2017-08-02 11:54:24",
+      "isDeleted": "1",
+      "active": "1",
+      "code": "23",
+      "nameInBangla": "বরগুনা",
+      "nameInEnglish": "Barguna",
+      "createdBy": "60",
+      "modifiedBy": "60"
+    },
+    {
+      "id": "30",
+      "creationDate": "2017-03-30 04:44:52",
+      "modificationDate": "2017-05-17 15:54:33",
+      "isDeleted": "0",
+      "active": "1",
+      "code": "30",
+      "nameInBangla": "ঢাকা",
+      "nameInEnglish": "Dhaka",
+      "createdBy": "1",
+      "modifiedBy": "21"
+    },
+    {
+      "id": "40",
+      "creationDate": "2017-03-30 04:44:52",
+      "modificationDate": "2017-07-05 12:41:05",
+      "isDeleted": "0",
+      "active": "1",
+      "code": "40",
+      "nameInBangla": "খুলনা",
+      "nameInEnglish": "Khulna",
+      "createdBy": "1",
+      "modifiedBy": "1"
+    },
+    {
+      "id": "50",
+      "creationDate": "2017-03-30 04:44:52",
+      "modificationDate": null,
+      "isDeleted": "0",
+      "active": "1",
+      "code": "50",
+      "nameInBangla": "রাজশাহী",
+      "nameInEnglish": "Rajshahi",
+      "createdBy": "1",
+      "modifiedBy": null
+    },
+    {
+      "id": "55",
+      "creationDate": "2017-03-30 04:44:52",
+      "modificationDate": null,
+      "isDeleted": "0",
+      "active": "1",
+      "code": "55",
+      "nameInBangla": "রংপুর",
+      "nameInEnglish": "Rangpur",
+      "createdBy": "1",
+      "modifiedBy": null
+    },
+    {
+      "id": "60",
+      "creationDate": "2017-03-30 04:44:52",
+      "modificationDate": null,
+      "isDeleted": "0",
+      "active": "1",
+      "code": "60",
+      "nameInBangla": "সিলেট",
+      "nameInEnglish": "Sylhet",
+      "createdBy": "1",
+      "modifiedBy": null
+    },
+    {
+      "id": "65",
+      "creationDate": "2017-05-15 15:25:08",
+      "modificationDate": "2018-05-06 12:33:54",
+      "isDeleted": "0",
+      "active": "1",
+      "code": "45",
+      "nameInBangla": "ময়মনসিংহ",
+      "nameInEnglish": "Mymensingh",
+      "createdBy": "29",
+      "modifiedBy": "29"
+    },
+    {
+      "id": "70",
+      "creationDate": "2017-08-19 17:30:41",
+      "modificationDate": "2017-08-19 17:31:08",
+      "isDeleted": "1",
+      "active": "0",
+      "code": "70",
+      "nameInBangla": "কুমিল্লা",
+      "nameInEnglish": "Comilla",
+      "createdBy": "21",
+      "modifiedBy": "21"
+    },
+    {
+      "id": "80",
+      "creationDate": "2017-08-19 17:38:06",
+      "modificationDate": "2017-08-19 17:41:49",
+      "isDeleted": "1",
+      "active": "0",
+      "code": "72",
+      "nameInBangla": "দিনাজপুর",
+      "nameInEnglish": "Dinajpur",
+      "createdBy": "21",
+      "modifiedBy": "21"
+    }
+  ]
+}
